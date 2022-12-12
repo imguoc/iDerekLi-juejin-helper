@@ -27,7 +27,7 @@ class Seagold {
     {code: 15, hasBounty: true, isWall: false, name: "循环指令"}
   ];
 
-  debug = false;
+  debug = true;
   userInfo = {
     uid: "",
     name: "",
